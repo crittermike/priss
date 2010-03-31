@@ -1,8 +1,10 @@
 Priss CSS Print Framework
 ==========================
 
-Priss is basically just a css file to be used as your print stylesheet so that
-web pages look nice and readable when printed.
+Priss is basically just a CSS file to be used as your print stylesheet. It does its
+best to make sure web pages will look nice and readable when printed.
+
+It is meant as a starting point to be modified rather than an off the shelf solution.
 
 Usage
 ------
